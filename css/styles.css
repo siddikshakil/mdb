@@ -1,0 +1,30 @@
+img{
+    height: 300px;
+    width: 300px;
+}
+.card{
+    border: none;
+    padding: 4px 15px;
+    border-radius: 8px;
+    cursor: pointer;
+}
+
+.card {
+    border: black;
+    box-shadow: 5px 10px 10px lightgrey;
+}
+
+.deco{
+    margin-top: 20px;
+}
+.end{
+    height: 300px;
+    background-color:rgb(100, 65, 65);
+}
+.data{
+    color: rgb(37, 37, 61);
+}
+
+.bgcol{
+    background-color: lightslategrey;
+}
